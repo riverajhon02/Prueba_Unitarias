@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ConectarBd]">
+  <test name="Conectar.conectarTest(failed)" junit="true">
+    <classes>
+      <class name="Conectar.conectarTest">
+        <methods>
+          <include name="testConectar"/>
+        </methods>
+      </class> <!-- Conectar.conectarTest -->
+    </classes>
+  </test> <!-- Conectar.conectarTest(failed) -->
+</suite> <!-- Failed suite [ConectarBd] -->
